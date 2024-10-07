@@ -11,6 +11,7 @@ Currently working as a Frontend Engineer at  [<img src="[https://about.lovoo.com
 previously
 
 [<img src="https://about.lovoo.com/wp-content/themes/lovoo/inc/assets/images/lovoo-logo.svg" height="25px">](https://about.lovoo.com/en)
+
 [<img src="https://deutschefintechsolutions.de/assets/logo.png" height="25px">](https://about.lovoo.com/en)
 
 
