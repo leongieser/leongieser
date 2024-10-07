@@ -8,11 +8,7 @@ I believe in writing code that's not only functional but also clean, and maintai
 
 Currently working as a Frontend Engineer at 
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/ROBINSON.svg" height="32px">](https://www.robinson.com) 
-
-a subsidiary of
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/TUI_Logo_2016.svg" height="32px">](https://www.tui.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/ROBINSON.svg" height="32px">](https://www.robinson.com)
 
 previously
 
