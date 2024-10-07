@@ -6,7 +6,7 @@ What excites me the most about this field is the constant evolution of technolog
 
 I believe in writing code that's not only functional but also clean, and maintainable. I'm enthusiastic about contributing to open-source projects and am always on the lookout for new opportunities to collaborate and learn from the community.
 
-Currently working as a Frontend Engineer at  [<img src="[https://about.lovoo.com/wp-content/themes/lovoo/inc/assets/images/lovoo-logo.svg](https://d2yk9kjajbiedi.cloudfront.net/damfiles/article_image_12/tuigroup-15/de/medien/Images-Pressemitteilung/2021/2021-05-11-robinson-new-brand-identity/ROB_Kachel_Kopflogo.jpg_150-9cb99bdd73fc52adfc988b6d4e3784b3.jpg)" height="25px">](https://about.lovoo.com/en)
+Currently working as a Frontend Engineer at  [<img src="https://d2yk9kjajbiedi.cloudfront.net/damfiles/article_image_12/tuigroup-15/de/medien/Images-Pressemitteilung/2021/2021-05-11-robinson-new-brand-identity/ROB_Kachel_Kopflogo.jpg_150-9cb99bdd73fc52adfc988b6d4e3784b3.jpg" height="25px">](https://about.lovoo.com/en)
 
 previously
 
