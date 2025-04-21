@@ -6,7 +6,7 @@ What excites me the most about this field is the constant evolution of technolog
 
 I believe in writing code that's not only functional but also clean, and maintainable. I'm enthusiastic about contributing to open-source projects and am always on the lookout for new opportunities to collaborate and learn from the community.
 
-Currently working as a Frontend Engineer at 
+Currently working as Senior Frontend Engineer at 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/ROBINSON.svg" height="32px">](https://www.robinson.com)
 
